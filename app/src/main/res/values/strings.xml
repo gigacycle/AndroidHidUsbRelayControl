@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">USB Relay Control</string>
+    <string name="relay1">Relay1</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="relay2">Relay2</string>
+    <string name="relay_modules">Relay Modules</string>
+    <string name="btn_refresh">Refresh</string>
+</resources>
